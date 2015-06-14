@@ -1,0 +1,56 @@
+#echec {
+color: yellow;
+}
+
+#comptable{
+	background-color: rgb(150,95,85);
+	width: 300px;
+	border:  solid;
+	border-color: orange;
+    float: left;  
+    margin-right: 25px;
+
+}
+#commercial{
+
+	width: 300px;
+	background-color: rgb(150, 95,85);
+    border: solid;
+	border-color: orange ;
+	float: right; 
+
+	
+}
+#log   {
+	
+}
+
+#Titre {
+
+	position: absolute;
+	top: 180px;
+	right: 500px ;
+    font-family: serif;
+    font-size: 20px;
+    font-weight: bold;
+	
+	color: black ;
+}
+body {
+	position: relative;
+}
+
+#compta , #com{
+		color: rgb( 240, 240,240 );
+		font-family: monospace;
+
+}
+#lab_auteur  {
+font-style: italic;
+}
+#lab_annee {
+
+font-weight: bolder;
+
+}
+

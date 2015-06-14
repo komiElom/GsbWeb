@@ -1,0 +1,55 @@
+ h1 {
+
+	background: url(../img/logo.jpg) no-repeat ;
+	background-position: 5%  ;
+	text-indent: 10px;
+	border-bottom: solid;
+	border-color: orange ; 
+}	
+
+ #acceuil_logo {
+	border-color: orange  ;
+
+}
+
+
+ #div_bienvenue  {
+ 	width: 450px ;
+  	color: rgb(255, 100, 0); 
+ 	margin: auto ;
+	}
+
+.liste_menu{
+	margin-left: 600px;
+}
+
+
+
+li {
+	display: inline;
+	font-size: 12px;
+	padding-left: 40px;
+}
+
+.menu{
+text-decoration: none;
+
+}
+ul a:hover {
+
+background-color: rgb(255, 230, 180); 
+text-decoration: underline;
+
+}
+
+ body{
+ 	font-family: sans-serif;
+ }
+
+ .utilisateur{
+
+ 	font-size: 8px;
+ 	text-decoration: none;
+ }
+
+ 

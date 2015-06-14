@@ -1,0 +1,43 @@
+h1 {
+
+	background: url(../img/logo.jpg) no-repeat;
+	background-position: center;
+	text-indent: -5500px;
+	
+}	
+
+#acceuil_logo {
+
+
+	border-bottom: solid;
+	border-color: orange  ;
+
+}
+
+
+#log {
+
+width: 700px;
+margin-top: 25px;
+margin-left: 300px;
+font-family: monospace;
+font-weight: bolder;
+
+
+overflow: hidden; 
+margin-top: 150px;
+/**color: rgb(251, 222,108);*/
+color: orange;
+}
+
+footer {
+
+	font-size: 10px;
+	font-family: fantasy;
+	clear: both;
+	position: relative;
+	left: 550px ;
+	top: 150px;
+	
+}
+

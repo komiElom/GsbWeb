@@ -1,0 +1,69 @@
+ h1 {
+
+	background: url(../img/logo.jpg) no-repeat ;
+	background-position: 5%  ;
+	text-indent: 10px;
+	border-bottom: solid;
+	border-color: orange ; 
+}	
+
+ #acceuil_logo {
+	border-color: orange  ;
+
+}
+
+
+ #div_bienvenue  {
+ 	width: 450px ;
+  	color: rgb(255, 100, 0); 
+ 	margin: auto ;
+ 	font-family: monospace;
+ 	text-align: center;
+ 	font-size: 30px;
+	}
+
+
+li {
+	display: inline;
+	font-size: 12px;
+	padding-left: 40px;
+	font-family: sans-serif;
+}
+
+..menu2 {
+font-family: sans-serif;
+position: absolute;
+top: 80px ;
+left: 10px;
+
+}
+.menu {
+font-family: sans-serif;
+position: absolute;
+top: 80px ;
+left: 30px;
+
+}
+ul a:hover {
+
+background-color: rgb(255, 230, 180); 
+text-decoration: underline;
+
+}
+.menu3 {
+	float: right;
+
+}
+
+ body{
+ 	font-family: sans-serif;
+ }
+
+ .utilisateur{
+
+ 	font-size: 13px;
+ 	text-decoration: none;
+ 	font-family: serif;
+ }
+
+ 

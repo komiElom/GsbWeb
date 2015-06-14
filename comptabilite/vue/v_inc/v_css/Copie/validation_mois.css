@@ -1,0 +1,105 @@
+#div_identite{
+
+width: 500px;
+margin: auto ;
+
+}
+
+#div_visiteur {
+width: 250px;
+
+
+
+}
+
+#div_mois {
+width: 250px;
+
+margin-left: 240px;
+margin-bottom: 100px;
+
+
+
+}
+
+
+#form_fiche{
+
+	width: 700px;
+
+	margin: auto;
+}
+
+#frais {
+	width: 500px;
+	background-color: blue;
+	margin: auto;
+
+}
+
+#div_validation {
+
+
+	
+
+}
+
+
+#div_frais_forfait{
+
+	width: 700px;
+	background-color: rgb(90,80,100);
+
+}
+
+
+#div_frais_forfait input {   
+	background-color: rgb(238,233,233);
+	width: 50px;
+	margin-left: 20px;
+
+}
+
+#div_frais_forfait label {
+
+	color: rgb(240,230,40);
+}
+
+#div_frais_hors_forfait{
+
+width: 700px;
+background-color: rgb(90,80,100);
+
+}
+
+.la_date{
+	
+	color: rgb(240,230,40);
+}
+
+.le_libelle{
+	width: 15px;
+	margin-left: 105px;
+	color: rgb(240,230,40);	
+}
+
+
+#lab_justif{
+
+	color: rgb(240,230,40);	
+}
+
+.le_montant {
+width: 5px;
+margin-left: 100px;
+
+color: rgb(240,230,40);
+
+}
+
+#repas {
+ width: 15px;
+ margin-left: 20px;
+
+
+}
